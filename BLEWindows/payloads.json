@@ -1,0 +1,226 @@
+[
+    {
+        "Name": "Airpods",
+        "Category": "Apple",
+        "Identifier": 76,
+        "HexPayload": "071907022075aa3001000045121212000000000000000000000000",
+        "IsServiceData": false
+    },
+    {
+        "Name": "Airpods Pro",
+        "Category": "Apple",
+        "Identifier": 76,
+        "HexPayload": "0719070e2075aa3001000045121212000000000000000000000000",
+        "IsServiceData": false
+    },
+    {
+        "Name": "Airpods Max",
+        "Category": "Apple",
+        "Identifier": 76,
+        "HexPayload": "0719070a2075aa3001000045121212000000000000000000000000",
+        "IsServiceData": false
+    },
+    {
+        "Name": "Airpods 2",
+        "Category": "Apple",
+        "Identifier": 76,
+        "HexPayload": "0719070f2075aa3001000045121212000000000000000000000000",
+        "IsServiceData": false
+    },
+    {
+        "Name": "Airpods 3",
+        "Category": "Apple",
+        "Identifier": 76,
+        "HexPayload": "071907132075aa3001000045121212000000000000000000000000",
+        "IsServiceData": false
+    },
+    {
+        "Name": "Airpods Pro 2",
+        "Category": "Apple",
+        "Identifier": 76,
+        "HexPayload": "071907142075aa3001000045121212000000000000000000000000",
+        "IsServiceData": false
+    },
+    {
+        "Name": "Beats Flex",
+        "Category": "Apple",
+        "Identifier": 76,
+        "HexPayload": "071907102075aa3001000045121212000000000000000000000000",
+        "IsServiceData": false
+    },
+    {
+        "Name": "Beats Solo 3",
+        "Category": "Apple",
+        "Identifier": 76,
+        "HexPayload": "071907062075aa3001000045121212000000000000000000000000",
+        "IsServiceData": false
+    },
+    {
+        "Name": "Powerbeats 3",
+        "Category": "Apple",
+        "Identifier": 76,
+        "HexPayload": "071907032075aa3001000045121212000000000000000000000000",
+        "IsServiceData": false
+    },
+    {
+        "Name": "Powerbeats Pro",
+        "Category": "Apple",
+        "Identifier": 76,
+        "HexPayload": "0719070b2075aa3001000045121212000000000000000000000000",
+        "IsServiceData": false
+    },
+    {
+        "Name": "Beats Solo Pro",
+        "Category": "Apple",
+        "Identifier": 76,
+        "HexPayload": "0719070c2075aa3001000045121212000000000000000000000000",
+        "IsServiceData": false
+    },
+    {
+        "Name": "Beats Studio Buds",
+        "Category": "Apple",
+        "Identifier": 76,
+        "HexPayload": "071907112075aa3001000045121212000000000000000000000000",
+        "IsServiceData": false
+    },
+    {
+        "Name": "Beats X",
+        "Category": "Apple",
+        "Identifier": 76,
+        "HexPayload": "071907052075aa3001000045121212000000000000000000000000",
+        "IsServiceData": false
+    },
+    {
+        "Name": "Beats Studio 3",
+        "Category": "Apple",
+        "Identifier": 76,
+        "HexPayload": "071907092075aa3001000045121212000000000000000000000000",
+        "IsServiceData": false
+    },
+    {
+        "Name": "Beats Studio Pro",
+        "Category": "Apple",
+        "Identifier": 76,
+        "HexPayload": "071907172075aa3001000045121212000000000000000000000000",
+        "IsServiceData": false
+    },
+    {
+        "Name": "Beats Fit Pro",
+        "Category": "Apple",
+        "Identifier": 76,
+        "HexPayload": "071907122075aa3001000045121212000000000000000000000000",
+        "IsServiceData": false
+    },
+    {
+        "Name": "Beats Studio Buds+",
+        "Category": "Apple",
+        "Identifier": 76,
+        "HexPayload": "071907162075aa3001000045121212000000000000000000000000",
+        "IsServiceData": false
+    },
+    {
+        "Name": "Number Setup",
+        "Category": "Apple",
+        "Identifier": 76,
+        "HexPayload": "04042A0000000F05C109604C950000100000000000",
+        "IsServiceData": false
+    },
+    {
+        "Name": "Apple TV Pair",
+        "Category": "Apple",
+        "Identifier": 76,
+        "HexPayload": "04042a0000000f05c106604c950000100000000000",
+        "IsServiceData": false
+    },
+    {
+        "Name": "Homepod Setup",
+        "Category": "Apple",
+        "Identifier": 76,
+        "HexPayload": "04042a0000000f05c10b604c950000100000000000",
+        "IsServiceData": false
+    },
+    {
+        "Name": "Pixel Buds",
+        "Category": "Android",
+        "Identifier": 65068,
+        "HexPayload": "92BBBD",
+        "IsServiceData": true
+    },
+    {
+        "Name": "Google Pixel Buds",
+        "Category": "Android",
+        "Identifier": 65068,
+        "HexPayload": "000006",
+        "IsServiceData": true
+    },
+    {
+        "Name": "JBL Flip 6",
+        "Category": "Android",
+        "Identifier": 65068,
+        "HexPayload": "821F66",
+        "IsServiceData": true
+    },
+    {
+        "Name": "JBL Buds Pro",
+        "Category": "Android",
+        "Identifier": 65068,
+        "HexPayload": "F52494",
+        "IsServiceData": true
+    },
+    {
+        "Name": "JBL Live 300TWS",
+        "Category": "Android",
+        "Identifier": 65068,
+        "HexPayload": "718FA4",
+        "IsServiceData": true
+    },
+    {
+        "Name": "Sony XM5",
+        "Category": "Android",
+        "Identifier": 65068,
+        "HexPayload": "D446A7",
+        "IsServiceData": true
+    },
+    {
+        "Name": "Bose NC 700",
+        "Category": "Android",
+        "Identifier": 65068,
+        "HexPayload": "CD8256",
+        "IsServiceData": true
+    },
+    {
+        "Name": "Bose QuietComfort 35 II",
+        "Category": "Android",
+        "Identifier": 65068,
+        "HexPayload": "0000F0",
+        "IsServiceData": true
+    },
+    {
+        "Name": "Razer Hammerhead TWS",
+        "Category": "Android",
+        "Identifier": 65068,
+        "HexPayload": "0E30C3",
+        "IsServiceData": true
+    },
+    {
+        "Name": "LG HBS-835S",
+        "Category": "Android",
+        "Identifier": 65068,
+        "HexPayload": "0003F0",
+        "IsServiceData": true
+    },
+    {
+        "Name": "Galaxy Buds 2 Pro",
+        "Category": "Samsung",
+        "Identifier": 117,
+        "HexPayload": "42098102141503210109AB0C0146063CDD0A00000000A700",
+        "IsServiceData": false
+    },
+    {
+        "Name": "Windows Custom",
+        "Category": "Windows",
+        "Identifier": 6,
+        "HexPayload": "030080",
+        "IsServiceData": false
+    }
+]
